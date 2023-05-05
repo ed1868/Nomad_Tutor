@@ -42,7 +42,7 @@ Nomad Tutor Tutor allows you to:
 
 1. Visit [ChatGPT](https://chat.openai.com/chat)
 2. Select the GPT-4 (or above) model
-3. Copy and paste the contents of [nomad_tutor.json]() into the prompt
+3. Copy and paste the contents of [nomad_tutor.json](https://github.com/ed1868/Nomad_Tutor/blob/master/nomadTutor.json) into the prompt
 4. Let Nomad Tutor walk you through the configuration process
 5. Begin learning!
 
@@ -54,7 +54,7 @@ _If you are using the ChatGPT web interface, the costs will not apply (API USE O
 
 |Format|Tokens|Reduction from JSON format|
 |-|-|-|
-|[JSON]()|4,336|1x|
+|[JSON](https://github.com/ed1868/Nomad_Tutor/blob/master/nomadTutor.json)|4,336|1x|
 
 
 # AI Tutor Personalization Options
